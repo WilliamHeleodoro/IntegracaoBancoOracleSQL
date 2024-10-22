@@ -20,7 +20,7 @@ namespace IntegracaoBancoOracleSQL.Servicos
                 oracleDAL.InserirClienteOracle(clienteOracle);
 
                 Console.WriteLine($"Enviado o cliente Cód: {cliente.CD_ENTIDADE}. CNPJ: {cliente.NR_CPFCNPJ} com sucesso.");
-                Globais.log.Info(Logs.TipoOperacaoLog.Cliente, $"Enviado o cliente Cód: {cliente.CD_ENTIDADE}. CNPJ: {clienteOracle.cgc_cpf} com sucesso.");
+                Globais.log.Info(Logs.TipoOperacaoLog.Cliente, $"Enviado o cliente Cód: {cliente.CD_ENTIDADE}. CNPJ: {clienteOracle.cgc_cpf} com sucesso..");
             }
             catch (Exception ex)
             {
