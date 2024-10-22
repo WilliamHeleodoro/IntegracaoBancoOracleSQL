@@ -1,0 +1,21 @@
+# Ignorar todas as pastas bin e obj em qualquer projeto
+**/bin/
+**/obj/
+
+# Ignorar a pasta .vs do Visual Studio
+.vs/
+
+# Ignorar arquivos gerados pelo Visual Studio
+*.user
+*.suo
+
+# Ignorar pacotes NuGet restaurados
+packages/
+*.nupkg
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar configurações temporárias
+*.tmp
+*.temp
