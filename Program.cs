@@ -17,7 +17,7 @@ namespace IntegracaoBancoOracleSQL
 
             try
             {
-                Globais.log.Info(TipoOperacaoLog.Iniciar, $"Iniciando Integração ");
+                Globais.log.Info(TipoOperacaoLog.Iniciar, $"Iniciando Integração");
 
                 var conexao = new ConexaoSQL();
 
