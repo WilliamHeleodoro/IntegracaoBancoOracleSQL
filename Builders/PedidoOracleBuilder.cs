@@ -1,5 +1,4 @@
-﻿
-using IntegracaoBancoOracleSQL.Model.ModelOracle;
+﻿using IntegracaoBancoOracleSQL.Model.ModelOracle;
 using IntegracaoBancoOracleSQL.Model.ModelSQL;
 using System.IO.Compression;
 using System.Text;

@@ -1,5 +1,4 @@
 ﻿using Oracle.ManagedDataAccess.Client; // Certifique-se de usar a biblioteca correta
-using System;
 using System.Data;
 
 namespace IntegracaoBancoOracleSQL.Conexoes

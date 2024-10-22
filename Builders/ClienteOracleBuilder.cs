@@ -1,8 +1,4 @@
-﻿
-
-
-
-using IntegracaoBancoOracleSQL.Model.ModelOracle;
+﻿using IntegracaoBancoOracleSQL.Model.ModelOracle;
 using IntegracaoBancoOracleSQL.Model.ModelSQL;
 
 namespace IntegracaoBancoOracleSQL.Builders

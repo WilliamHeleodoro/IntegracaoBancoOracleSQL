@@ -1,5 +1,4 @@
-﻿using Ini.Net;
-using System.Data.SqlClient;
+﻿using System.Data.SqlClient;
 
 namespace IntegracaoBancoOracleSQL.Conexoes
 {

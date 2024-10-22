@@ -1,5 +1,4 @@
 ﻿using Dapper;
-using Dapper.Contrib.Extensions;
 using IntegracaoBancoOracleSQL.Conexoes;
 using IntegracaoBancoOracleSQL.Model.ModelOracle;
 

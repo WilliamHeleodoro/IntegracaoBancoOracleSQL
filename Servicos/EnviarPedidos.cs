@@ -1,6 +1,4 @@
-﻿
-
-using IntegracaoBancoOracleSQL.Builders;
+﻿using IntegracaoBancoOracleSQL.Builders;
 using IntegracaoBancoOracleSQL.DAL.Oracle;
 using IntegracaoBancoOracleSQL.DAL.SQLDAL;
 using IntegracaoBancoOracleSQL.Model.ModelOracle;
